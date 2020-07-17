@@ -1,0 +1,9 @@
+1. I want my input to be able to add sentences to my ul list.
+2. I want the edit icon on each li element to be able to edit 
+    the contents of that li element.
+3. I want the delete icon on each li element to be able to remove 
+    the contents of that li element.
+4. I want to be able to cross out each li element that I feel is 
+    done or accomplished.
+5. When I reload the page, the contents of my list should still 
+    remain.
